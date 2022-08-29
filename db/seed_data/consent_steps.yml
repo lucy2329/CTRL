@@ -1,4 +1,4 @@
-- title: CTRL introduction
+- title: UDN-Aus introduction
   order: 1
   description: |
     Watch our short video about thes consent process for taking
@@ -13,66 +13,79 @@
 - title: Consent for the genomic test
   order: 2
   description: |
-    This section follows on from your consent to have a genomic test as
-    part of the Australian Genomics study.
-    Your doctor or genetic counsellor will have already discussed the
-    genomic test with you. The answers are all
-    pre-selected, because you have already agreed to have the test.
-    <br></br>
-    If you choose to unselect any statements we will contact you to talk
-    about whether you still consent to having the test.
+    We would like to invite you to participate in a research study that is
+    explained below. You have been invited to take part in this study because
+    you or your child is suspected to ahve a rare genetic condition. Knowing 
+    what is involved will help you decide if you want to take part.
+    <br>
+    <ul><li>Many rare conditions are caused by changes in the genetic information
+    in the body.</li><li> New genetic testing technologies have greatly improved 
+    the chances of finding a genetic change causing a rare condition.</li><li> This 
+    project use these new technologies to look at your/your child’s genes 
+    to try find a genetic cause (‘diagnosis’) for the rare condition in 
+    your family. This will include looking at the genes of closely related 
+    family members (e.g. parents, siblings).</li><li> A genetic diagnosis can help 
+    us to better understand your family’s rare condition. This may provide more
+    certainty about future health implications. It may help doctors find potentially relevant treatments.</li><li> 
   popover:  |
-    Review your consent to have a genomic test as part of the program.
+    Review your consent to have a genomic test or undergo re-analysis as part of the program.
 
-- title: Consent to Australian Genomics research participation
+- title: Consent to UDN-Aus research participation
   order: 3
   description: |
-    By signing the Australian Genomics consent form, you have agreed to
-    participate in the research, along with
-    having the genomic test. Thank you. The research we are doing will
-    help to decide whether genomic testing
-    should be standard care for your health condition. To do this, we would
-    like to collect information about
-    you from your health records as well as information directly from you.
-    The answers are all pre-selected,
-    because you have already agreed to participate in the research.
-    <br>
-    <br>
-    If you choose to unselect any statements below we will contact you to
-    talk about whether
-    you still agree to being in the research project.
+    This section outlines your consent to participate in the Australian
+    Undiagnosed Diseases Network (UDN-Aus): An internationally networked
+    national approach for transforming diagnosis for individuals living
+    with rare diseases research study.
   popover:  |
     Review your consent to be part of the research program.
 
-- title: Preferences about your results
+- title: Further consent to UDN-Aus research participation 
   order: 4
   description: |
-    <b>Incidental findings:</b>
-    Because a genomic test looks at many genes at once, a
-    genetic change that is not related to the specific
-    health condition you are being tested for could be found.
-    These incidental findings may be important to know
-    about for your health and for your family as well.
-    <br>
-    <br>
-    An incidental finding is a genetic change that we know or think
-    is linked with certain health conditions that the testing
-    laboratory comes across accidentally, despite efforts not
-    to look closely at certain genes. It is very uncommon, but
-    you should be aware that it can happen.
-    <br>
-    <br>
-    Genomic testing services have their own policies about whether
-    they will tell you about incidental findings.
-    If your testing is transferred to a research setting they may
-    identify incidental findings. For those that
-    do return incidental findings, we would like to know your preferences.
+    This section outlines your consent to participate in the Australian
+    Undiagnosed Diseases Network (UDN-Aus): An internationally networked
+    national approach for transforming diagnosis for individuals living
+    with rare diseases research study.
   popover:  |
-    Tell us your preferences for knowing results that fall outside the main
-    reason you are having a genomic test.
+    Review your consent to be part of the research program.
+
+- title: Optional Research Consent 
+  order: 5
+  description: |
+    The following questions are optional. You can decide whether you wish to 
+    consent to the following choices and your preferences will be saved. You
+    can change your preferences at any time.
+   <br>
+   <br>
+   You will also be asked whether you consent to donating you/your child's data
+   (health-related, genomic and self-reported information) and sample(s) collected 
+   in this research study, for use in other research approved by a registered Human
+   Research Ethics Committee. This committee checks that studies are scientifically
+   and ethically acceptable. This means that the research respects and protects you
+   and the other people who have donated data and/or sample(s).
+   <br>
+   <br>
+   Key information about donating your/your child's sample(s) and data:
+   <ul><li> In most cases, you will not be recontacted for further consent.</li><li>
+   Access to your data and/or sample(s) will only be granted if approved
+   by the study Data Access Committee.</li><li> The research may or may not
+   be related to this study. </li><li> If you consent, personal information
+   will be removed from your data and sample(s). </li><li> Research findings
+   from these studies will not be returned to you. </li><li> Your/your child's
+   may be stored on controlled-access national or international data 
+   repositories. </li><li> Your/your child's data and/or sample(s) may be shared
+   with researchers in Australia or overseas, including at universities, hospitals,
+   medical research institutes, not-for-profits, or for-profit biomedical, 
+   pharmaceutical or diagnostic testing companies.</li><li> The results of the 
+   studies are unlikely to be of direct benefit to you.</li><li> Data will not 
+   be shared for marketing or insurance purposes.</li><li>
+  popover:  |
+    Decide who we can share your samples and information with,
+    and for what kinds of research.
 
 - title: Consent to research outside this study
-  order: 5
+  order: 6
   description: |
     Genomic testing is not yet routinely done and we still don’t know a
     lot about genetic changes that cause
