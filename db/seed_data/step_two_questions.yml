@@ -1,160 +1,278 @@
 - order: 1
   question: |
-    I understand I am providing a sample so that my DNA can be extracted and all of my genes
-    could be looked at. This is called a genomic test.
+    I understand what participation in this research study involves.
+    <br>
+    <br>
+    <b>Re-analysing data from previous genetic testing:</b> We will 
+    re-analyse the genomic data because scientific knowledge and 
+    analysis tools improve quickly. This is often the first step
+    before additional testing is considered.
+    <br>
+    <br>
+    <b>Genomic Test:</b> You have been invited to take part in this
+    study because you/your child have had genomic testing which did
+    not find a cause for your/your child’s rare condition. If 
+    re-analysing the data does not find a genetic answer, we will then
+    use other genomic tests on genetic information from a saliva or
+    blood sample from you and/or your close family members. Often we
+    will be able to use DNA that is stored in the laboratory from
+    your previous genetic testing in your family. However, sometimes
+    we may ask you if it is ok to collect a new blood sample, 
+    or possibly some other samples which are explained in more detail here. 
   description: |
-    The sample you have given may have been blood, saliva, skin or other sample already
-    collected as part of your medical care. These samples contain your cells, and your DNA
-    can be extracted from the cells. Your DNA is needed for the genomic test.
-    DNA makes up genes. Genes are inside almost every cell of your body.
-    There are over 20,000 genes in each of your cells, and together these genes
-    make up your “genome”.  Each gene has a specific function, however
-    the function of every gene is not yet known. Everyone has different
-    variations within their genes, which is why we are all unique. Most variations are harmless,
-    but other variations can change how a gene works, which might cause a health condition.
-    Identifying variations may help to find the cause of your health condition. Previously,
-    testing to look for variations in genes involved looking at only one gene at a time.
-    New technology means we can now look at many or all of our genes at once.
-    This is known as “genomic testing”.
+    The The genetic information could be DNA, that makes up your genes,
+    or RNA which is the message the gene codes for within cells.  If a
+    gene change is identified that might be medically important, we will
+    do protein studies and other tests to determine if the gene change
+    affects its function. For these functional studies we may need a
+    fresh blood sample or, other types of samples.  It is your choice
+    which of those samples we take. Collecting and testing different 
+    tissue samples increases the chance that we will be able to find 
+    a genetic change that causes the rare condition in your family. 
+    <b>You do not have to agree to all samples being collected in order
+    to participate in the study.</b> The types of samples we may ask 
+    you to collect include:<ul><li> skin, and/or</li><li> tissue 
+    biopsy, and/or</li><li> urine.</li><li>
+    <br>
+    <br>
+    Sometimes we find gene variants, but we do not know if they
+    can cause a health or developmental condition. These are 
+    called variants of uncertain significance. To make a diagnosis
+    in your family, we may ask to take a skin biopsy from you or 
+    your child. Studying how the gene change works in your or your 
+    child’s skin cells can help us to understand if the change can 
+    cause the rare condition in your family. Wherever possible, we 
+    will collect these samples at the same time as any clinical procedures
+    that are part of your or your child’s usual care.
+    <br>
+    <br> 
+    <b>Health Information:</b> We will also collect health information
+    about you, your child and other relevant family members, including
+    names and dates of birth, family history, medical and developmental history.
+    <br>
+    <br> 
+    <b>Result Return:</b> The results of the further genomic testing will
+    be given to you during a scheduled appointment with your or your child’s
+    treating specialist doctor, a clinical geneticist or a genetic counsellor.
+    <br>
+    <br>
+    It may take a year or more for your test results to be available. 
+    The genomic test may or may not provide a diagnosis (see section 6).
+    Your clinical genetics team may arrange for clinical testing to confirm 
+    the research result. This would be done in an accredited laboratory, 
+    which will issue a separate diagnostic test report. 
   default_answer: "no"
   question_type: checkbox
   answer_choices_position: right
 
 - order: 2
   question: |
-    I understand having a genomic test may not find the genetic cause of my condition.
+    I understand the possible results of the genomic test.
   description: |
-    The likelihood of finding a genetic cause depends on a number of things, including your health condition
-    and how much is already known about it. We are still learning about what genes do and how they work.
-    Between 30 and 50% of patients with rare disease receive a diagnosis through genomic
-    testing. That is, 3 to 5 people in every 10 tested will receive a genetic explanation
-    for their condition. We expect more patients will receive a diagnosis in the future,
-    as the technology and our ability to interpret genomic information improve.
+    <ul><li>A genetic cause for your/your child's condition(s) may be found.</li><li> A 
+    genetic cause for your/your child's condition(s) may not be found.</li><li> The
+    results may be of 'uncertain significance', which means they cannot be understood
+    using current available information.</li><li>
+    <br>
+    <br>
+    Genomic test results are based on current knowledge, which may change in the future.
+    This test will not predict all future health problems. 
   default_answer: "no"
   question_type: checkbox
   answer_choices_position: right
 
 - order: 3
   question: |
-    I understand my sample and genomic information will be stored by the testing laboratory
-    so that it could be looked at again in the future, when we know more about genes that cause my
-    health condition.
+    I understand the possible benefits of taking part in this study.
+    <br>
+    <br>
+    The results of genomic testing may help health professionals 
+    involved in your/your child's care to better understand and manage
+    your condition.
+    <br>
+    <br>
+    Your family may benefit from this information as it might be possible
+    for your doctor to give you more accurate information about the chance
+    of having further children with the gene variant, or if other members
+    of your family might develop the condition.
   description: |
-    Your sample will be stored in the laboratory for at least 3 months. Depending on the laboratory
-    and the law, it may be stored many years after this.
-    The laboratory will also keep the genomic information they obtain from your sample.
-    This allows for future re-analysis (looking at your genomic information again)
-    if there is a specific reason or request to do so. For example, this might be done
-    if new gene variants linked with your health condition are identified.
+    Sometimes, genomic test results may also provide information about the
+    genetic risks of family members. Where appropriate, this may be used to
+    help inform genetic counselling and testing of family members. This 
+    information will be communicated to your family members by your local 
+    clinical genetics team.
+    <br>
+    <br>
+    If you decide to find out the results of your child’s genomic tests, 
+    this may have implications for them in the future. For example, they
+    may need to tell third parties about these test results. These third 
+    parties could include insurance companies, employers, and financial or 
+    educational institutions
+    <br>
+    This research may benefit others in the future, as the aim of this 
+    study is to improve the welfare of patients and families affected 
+    by rare genetic conditions.
   default_answer: "no"
   question_type: checkbox
   answer_choices_position: right
 
 - order: 4
   question: |
-    I understand my genomic test results are confidential and will only be shared with the
-    medical team directly involved in my care.
+    I understand what my child and I have to do to be involved in this project.
   description: |
-    This could include your Clinical Geneticist and other specialist doctors,
-    your Genetic Counsellor or your GP. Agreeing to participate in the
-    Australian Genomics research means your results will be shared with relevant investigators on the study.
-    Your result may be included in your My Health Record, if you have one.
+    Add contact details for participants.
   default_answer: "no"
   question_type: checkbox
   answer_choices_position: right
 
 - order: 5
   question: |
-    I understand that the testing laboratory could share my anonymous genomic
-    information with other laboratories, in order to understand more about the genetic changes
-    that can cause my health condition or other conditions.
+    I understand the possible risks, side-effects, discomforts and/or 
+    inconveniences of having samples collected.
+    <br>
+    <br>
+    There are no major risks associated with collecting a new sample. 
+    However, you or your child may feel some discomfort when the sample is
+    collected. This depends on the type of sample collected.
+    <br>
+    <br>
+    <b>Blood:</b> You/your child may feel a sting when the needle is put in the
+    arm. We can use a cream to numb the skin before we take the blood.
   description: |
-    Anonymous means that your personal details have been removed,
-    so it cannot be easily identified as yours. This kind of sharing is done to benefit research,
-    but means that you will probably not personally benefit
-    from anything that is discovered from sharing your information.
+    <b>Skin Biopsy:</b>  A skin biopsy is generally a simple and safe 
+    procedure using a local anaesthetic but there may be some bleeding 
+    and/or bruising where the skin is taken, and some may experience minor 
+    discomfort. The procedure will leave a small scar (5mm). In some cases, 
+    infection may occur. If you or your child is having another procedure under 
+    anaesthetic, we may ask if we can collect a skin biopsy at the same time to minimise
+    the discomfort for you or your child.
+    <br>
+    <br> 
+    <b>Tissue Biopsy:</b> If an extra procedure is needed to get a tissue sample 
+    for genetic analysis, this will be performed by an appropriately qualified doctor.
+    The approach used to obtain tissue samples may vary. There may be some bleeding,
+    discomfort, or pain from the tissue biopsy. In some cases, infection may occur, 
+    and some people experience fainting or distress. To minimise risks and discomforts,
+    you or your child may receive local anaesthetics to numb the area of the biopsy. 
+    Some surgical procedures require a general anaesthetic to make you or your child 
+    unconscious during the procedure. We will only collect samples for this research 
+    under general anaesthesia if you or your child already has the general anaesthesia 
+    planned as part of their medical care.  Where possible, we will use stored tissue 
+    samples from previous surgical procedures, or we may ask if we can collect a tissue 
+    sample during a future planned procedure.
+    <br>
+    <br>
+    Your/your child’s samples will be labelled with their code number only. It will not
+    be possible for the testing laboratory to identify your child (de-identified). It is
+    important to note that any samples sent overseas are not protected by Australian laws
+    and regulations.
+    <br>
+    <br> 
+    As part of this research study, your sample(s) will be stored indefinitely in 
+    case further research may be needed to help find a diagnosis and/or to better 
+    understand your health condition. Some samples may be used by the laboratory or 
+    research study as a control sample. You can choose to have your samples removed 
+    from storage at any time.
+    <br>
+    <br> 
+    If you pass away and we are informed of this, we will seek advice from your next
+    of kin about their wishes to store your data or samples. If the data is in a repository
+    from which it can’t be extracted, we won’t be able to destroy that data.  If your
+    next of kin indicates they are happy for the study to continue to store your samples,
+    and an opportunity for future research arises, if you have consented to this, we will
+    contact them to discuss reconsenting for this new research.   If your child passes
+    away and you inform us, we will discuss with you your preferences for data and sample
+    storage. Again, if this data is in a repository from which it can’t be extracted, we
+    won’t be able to destroy that data.
   default_answer: "no"
   question_type: checkbox
   answer_choices_position: right
 
 - order: 6
   question: |
-    I understand the laboratory performing my test will store and may sometimes use my
-    DNA sample for purposes like reference and control material.
+    I understand the potential genetic testing issues for myself or my child.
+    <br>
+    <br>
+    A genetic test has a number of potential results. These include an informative
+    result that explains you or your child’s rare genetic condition, a negative or
+    uninformative result where no genetic explanation is found, or an uncertain 
+    result that we do not understand at this point in time. Sometimes, samples from 
+    parents or other close relatives (usually siblings), may help us to understand uncertain
+    results. We may ask for a blood and/or saliva sample from close relatives to help 
+    understand your/your child’s genetic test result. 
   description: |
-    Your DNA is stored in the testing laboratory for at least three months,
-    but it could be years. When doing any laboratory test, it is important to compare the
-    test sample with a control sample. Your DNA may be used as a control sample.
-    All of your personal, identifying information will be removed if your sample is used for this purpose.
+    <b>Genetic testing</b> can raise important issues.If an important genetic variant is found,
+    you may need to tell your child about this in the future, when they are old enough to 
+    understand. For example, the test results may show that your child has an increased 
+    chance of developing a particular condition or medical problem. This increased chance 
+    does not mean that they will actually develop the condition.
+    <br>
+    <br>
+    We are only searching for genetic changes that are related to your family’s rare genetic 
+    condition. However, it is possible that we may find genetic changes responsible for other,
+    medically important genetic conditions (incidental findings) that are unrelated to that 
+    condition. Overall, the chance of this is low.  However, if we discover that you or your 
+    child has a genetic condition for which we have specific treatment recommendations, we 
+    will discuss the findings with you. These results might also be important for the medical 
+    care of others in the family, such as siblings or parents.  We will also refer you, and your
+    family if appropriate, to a genetic counsellor. With your permission, we will share these 
+    results with your/your child’s doctors.
+    <br>
+    <br> <b>Genetic testing – issues for your family:</b> The genetic tests may tell us 
+    something about you or your wider family. This could affect you and your family 
+    emotionally and interfere with your relationships. For example, by chance, we may discover
+    that parents and children or siblings may not be biologically related. While the 
+    identification of non-paternity is extremely unlikely, if this is identified, we will 
+    not disclose this to you, your child or any family members.  This is in keeping with 
+    standard clinical genetics practice.
+    <br>
+    <br>
+    Some people in your family might want to know about your or your child’s results. 
+    They may want to know whether the results have implications for them. You can decide
+    whether or not you want to tell them about the test results. 
   default_answer: "no"
   question_type: checkbox
   answer_choices_position: right
 
 - order: 7
   question: |
-    I understand there are certain risks involved in having a genomic test.
-    These could include finding out something that may be important for my family’s health,
-    incidental findings, or having to disclose the genomic information.
+    I understand the possible implications a genetic test could have for myself or my child’s future.
+    <br>
+    <br> 
+    If you decide to go ahead with your/your child’s genetic test, this may have implications for
+    you or them in the future. For example, you may need to reveal these test results to third parties
+    such as insurance companies, employers, and financial or educational institutions. 
   description: |
-    The main risks involved in having a genomic test are related to the information that
-    you may get, rather than any physical harm.
-    For example: <ul><li>Waiting for the test results, or the results you receive, may bring up
-    a number of different emotions.</li><li>We may be uncertain about what your result means.
-    </li><li>It may be uncomfortable or stressful to share a result with your family.</li><li>
-    The test may find something important to your health that you or the doctors were not expecting.
-    This is called an incidental finding. You will be given the opportunity to give your preferences about
-    incidental findings in step 4.</li><li>You may have to disclose the information to insurance companies
-    or employers. There is more information on this in the next question.</li></ul>
+    Some people find it stressful to get information about their genetic make-up and possible future 
+    health issues.
+    <br>
+    <br>
+    Your/your child’s participation in this project could raise personal issues for you. If this happens,
+    we can refer you to an independent genetic counsellor. This will be free of charge. We are also 
+    available to discuss any concerns you may have.
+    <br>
+    <br>
+    We will keep your/your child’s test results private, but we cannot guarantee complete confidentiality.
+    Some genetic variants are very rare, and we aim to publish results from this study in scientific journal
+    articles.  Therefore, it may be possible to identify you or your child from the test results or the name of the gene.
+    <br>
+    <br>
+    If the testing shows important information about your relatives, contact with your relatives about the testing
+    is encouraged. You may wish to do this yourself or you may ask your doctor to assist you in this if you choose. 
   default_answer: "no"
   question_type: checkbox
   answer_choices_position: right
 
 - order: 8
   question: |
-    I understand that if I am taking out a new policy for life, critical illness or income protection insurance,
-    the insurer may ask me to disclose that I have had a genetic test and require me to provide my results.
+    I understand the risks I or my child could face because of their involvement in this project. 
   description: |
-    How insurance companies use personal genetic information is currently
-    being investigated by government. If you would like more information about
-    the impact of genetic testing on certain insurance products,
-    visit the Centre for Genetics Education
-    <a href="http://www.genetics.edu.au/publications-and-resources/facts-sheets/fact-sheet-20-life-insurance-products-and-genetic-testing-in-australia" target="_blank">
-    insurance fact sheet.
-    </a>
+    Mature Minor Consent?
   default_answer: "no"
   question_type: checkbox
   answer_choices_position: right
 
 - order: 9
-  question: |
-    I understand my employer, or future employers, may ask for my results to decide whether there
-    is a risk associated with a particular job role.
-  description: |
-    The law allows an employer to ask for your health details,
-    including genetic testing results, if they think it is relevant in
-    deciding whether you are able to fulfil a job role.
-    In reality, very few employers do ask for your genetic testing results,
-    but it's important that you know it may become more relevant in the future.
-  default_answer: "no"
-  question_type: checkbox
-  answer_choices_position: right
-
-- order: 10
-  question: |
-    I understand that it might be important to tell my family members
-    about genetic changes that could directly affect their health.
-    My medical team will support me in sharing such information with my family.
-  description: |
-    Family members who may have an interest in knowing about your result are your biological,
-    or blood relatives. These people include your parents, children, aunts, uncles and cousins.
-    If you are planning to have (more) children your partner may need to know.
-    Exactly who needs to know is different on a case by case basis. Your
-    medical team will support you in sharing information with family members.
-  default_answer: "no"
-  question_type: checkbox
-  answer_choices_position: right
-
-- order: 11
   question: |
     I understand all of the information above and the choices I have made.
     </br>(leaving this box unchecked means you will be contacted by a Genetic
