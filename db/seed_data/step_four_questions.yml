@@ -1,66 +1,69 @@
 - order: 1
   question: |
-    I want to know about the genetic change if it is medically actionable
-    (can alter my health management or treatment).
+    I or my child are free to withdraw at any time during the study without any impact on my usual care.
   description: |
-    For example, there are some types of cancers that run in families.
-    Sometimes we can find a genetic change that means a family is more likely
-    to develop a cancer throughout their lifetime. If this genetic change is
-    medically actionable, it means these families can reduce that risk through
-    closer surveillance or surgical options.
-  default_answer: "not sure"
-  question_type: multiple choice
+    If you decide to withdraw from the study before genomic testing is performed and data is collected, 
+    we will not continue. Any specimens will be disposed of or can be returned to the family upon request.
+    <br>
+    <br>
+    If you withdraw after genomic testing is performed and data is collected, you can choose not to be told
+    about the result. However, we will use any data already collected for research purposes unless you tell 
+    us not to. If your data has already been shared, it may not be possible to retrieve or remove all your 
+    data that has been collected as part of this study.
+  default_answer: "no"
+  question_type: checkbox
   answer_choices_position: right
 
 - order: 2
   question: |
-    I want to know about the genetic change if it is non-medically actionable
-    (will not alter my health management or treatment).
+    I or my child may be asked to complete survey(s) about our understanding and experience of genomic testing
+    and the costs associated with living with my or my child’s condition. 
   description: |
-    There are some conditions that run in families and have a genetic cause,
-    but cannot be treated at this time. An example of this is early
-    onset Alzheimer’s disease. This type of result would mean that you know
-    that you are at risk of developing this condition,
-    but at this time your health management or treatment would not change.
-  default_answer: "not sure"
-  question_type: multiple choice
+    <b>Surveys:</b> You may also be asked to complete a survey prior to the test commencing and up to 12 months
+    after the return of the results. The surveys will ask you about your experience of the study and those of
+    your doctor at having been involved in this project, and costs and benefits to you because of being involved
+    in this project.  The surveys will be paper-based or online, and we anticipate will take no longer than one
+    hour of your time for each survey.
+  default_answer: "no"
+  question_type: checkbox
   answer_choices_position: right
 
 - order: 3
   question: |
-    I want to know if I am a carrier of a genetic change that can cause disease
-    (it might affect decisions I make about having children, or for my grandchildren).
+    The health professionals and organisations involved in my or my child’s care may release my or my child’s
+    information for the purposes of this study. 
   description: |
-    Sometimes we can be “carriers” of genetic changes that do not affect our
-    health but can cause problems when we have a baby with a partner who also carries
-    that same genetic change. An example of this is cystic fibrosis.
-  default_answer: "not sure"
-  question_type: multiple choice
+  default_answer: "no"
+  question_type: checkbox
   answer_choices_position: right
 
 - order: 4
   question: |
-    Id like my medical team and the testing laboratory to decide whether I should be
-    told about medically actionable, non-medically actionable and carrier
-    status findings on a case by case basis.
-  default_answer: "not sure"
-  question_type: multiple choice
+    The laboratory undertaking the testing will release my or my child’s test report and genomic data associated
+    with this study to the research team. The UDN-Aus project will then have responsibility for the data. 
+  default_answer: "no"
+  question_type: checkbox
   answer_choices_position: right
 
 - order: 5
   question: |
-    I would like a summary of the main findings of my genomic testing report securely stored in CTRL,
-    so I can access it at any time.
+    Further research may be initiated to understand my or my child’s genomic results and/or condition. Additional
+    samples may be requested to undertake this research. 
   description: |
-      We are developing ways of showing your genomic results in a way that is understandable to you,
-      your family and anyone else you would like to show them to.
-      We will make this available to you as soon as it is ready,
-      if you indicate that you would like to have it.
-  default_answer: "not sure"
-  question_type: multiple choice
+  default_answer: "no"
+  question_type: checkbox
   answer_choices_position: right
-
+ 
 - order: 6
+  question: |
+    I or my child may be invited to participate in other research projects not necessarily related to this project.
+  description: |
+    We would like you to consider letting us contact you with information about new research projects that may be
+    suitable for you or your child in the future. The information we provide will give you the full details about the
+    project. It is your choice whether you agree to take part in these future projects. You do not have to take part 
+    in any future research you are given information about.
+
+- order: 7
   question: |
     I understand all of the information above and the choices I have
     made.</br>(leaving this box unchecked means you will be contacted by a
